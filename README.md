@@ -108,7 +108,7 @@ Setelah itu kalian dapat mencoba SSH dan login tanpa password tapi nanti server 
 |---------|-------|
 | SSH Keygen | https://github.com/Kaguai10/ssh-server/blob/main/SSH-Keygen.md | 
 | SSH Port Forwarding | https://github.com/Kaguai10/ssh-server/blob/main/SSH-Port-Forwarding.md |
-| SCP | https://github.com/Kaguai10/ssh-server/blob/main/SCP.md |
+| SCP dan SFTP | https://github.com/Kaguai10/ssh-SecureShell/blob/main/SCP%26SFTP.md |
 
 **Note: Setiap setelah melakukan Konfigurasi jangan lupa untuk merestart SSH `systemctl restart ssh`. Merestart SSH diwajibkan agar konfigurasi kita ditetapkan, service SSH diperbarui sesuai config. dan agar Konfigurasi berjalan**
 
